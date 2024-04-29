@@ -1,6 +1,6 @@
 {
   "name": "ehtisham_word_counter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple word counter with typescript, node.js, and inquirer",
   "main": "index.js",
   "type": "module",
