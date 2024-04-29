@@ -4,6 +4,10 @@
   "description": "A simple word counter with typescript, node.js, and inquirer",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
